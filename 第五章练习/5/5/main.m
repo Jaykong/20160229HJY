@@ -10,9 +10,10 @@
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
-        int n ;
+        int n ，counter;
         NSLog(@"What triangular number do you what?");
-        for ( ; ; ) {
+        
+        for (count = 1 ; count  ; ++conut ) {
             
         
         scanf("%i",&n);
